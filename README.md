@@ -1,6 +1,6 @@
 # Parcial 2 - Servicios Telemáticos
 
-**Estudiantes:** Juan Camilo Gonzalez Rodas (2226090), Roiman Urrego Zuñiga (2231385) y Santiago Valencia Sandoval 2225348
+**Estudiantes:** Juan Camilo Gonzalez Rodas (2226090), Roiman Urrego Zuñiga (2231385) y Santiago Valencia Sandoval (2225348)
                  
 **Entorno:** macOS / Vagrant (Ubuntu 22.04 LTS)
 
@@ -102,7 +102,3 @@ sftp> bye
 
 **Conclusión:** **SFTP** es la solución ideal para entornos con restricciones estrictas de firewall debido a que encapsula autenticación, comandos y transferencia de datos en un **único canal TCP multiplexado**, simplificando significativamente las políticas de red e inspección.
 
-
-```
-
-```
