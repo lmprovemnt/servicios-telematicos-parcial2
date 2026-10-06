@@ -1,4 +1,3 @@
-```markdown
 # Parcial 2 - Servicios Telemáticos
 
 **Estudiantes:** Juan Camilo Gonzalez Rodas (2226090), Roiman Urrego Zuñiga (2231385) y Santiago Valencia Sandoval 2225348
