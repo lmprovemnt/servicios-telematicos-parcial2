@@ -1,0 +1,9 @@
+# Vagrant
+.vagrant/
+
+# macOS
+.DS_Store
+
+# Archivos temporales o llaves privadas sensibles
+*.key
+*.pem
